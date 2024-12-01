@@ -1,0 +1,31 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"prefix": "",
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "",
+"suffix": ""
+},
+"default_portrait": "imagem_Npc2",
+"description": "",
+"display_name": "npc1",
+"mirror": false,
+"nicknames": ["test nickname1"],
+"offset": Vector2(0, 0),
+"portraits": {
+"imagem_Npc2": {
+"export_overrides": {
+"image": "\"res://sprites/characters/npc1pfp.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 1.0
+}
